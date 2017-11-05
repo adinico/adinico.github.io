@@ -3,7 +3,7 @@
     "currentPage": "diseminare_spania.html",
     "versionFirst": "3.5.1",
     "uniqCompNum": 261,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.4.0",
     "name": "Proelearning",
     "theme": {
       "name": "mobirise3",
@@ -54,23 +54,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-0",
           "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
             "paddingTop": "5",
             "paddingBottom": "3",
-            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/antet-3-erasmus-cuza-2000x515-75.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
             "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButton": false
+            "overlayOpacity": "0.1"
           },
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
@@ -94,23 +94,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-0",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#5998a1",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#5998a1",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
+            "overlayOpacity": 0.5
           },
           "title": "Implementarea platformelor e-learning",
           "text": "<h1></h1><h3><b>Un instrument modern în pregătirea adulților pentru inserția pe piața muncii</b></h3><h4><b><br></b></h4><h4><b>Proiectul este finanțat prin programul ERASMUS +</b></h4><h4><b>Acțiunea cheie 1 (KA1) -Proiecte de mobilitate. Educația Adulților</b></h4><h4><b>Perioada implementării: Iunie 2016- Iunie 2018</b></h4>",
@@ -134,13 +134,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         }
@@ -167,10 +167,10 @@
           "_name": "header3",
           "_anchor": "header3-5g",
           "_params": {
+            "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": "1",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Derularea ultimei mobilitati",
           "meta": "<b>Echipa de proiect, August 2017</b>"
@@ -203,10 +203,10 @@
           "_name": "header3",
           "_anchor": "header3-4w",
           "_params": {
+            "showMeta": true,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Derularea celei de-a patra mobilități",
           "meta": "<b>Echipa de proiect, August 2017</b>"
@@ -242,10 +242,10 @@
           "_name": "header3",
           "_anchor": "header3-33",
           "_params": {
+            "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Derularea celei de a treia mobilități",
           "meta": "Echipa de proiect 17. 02. 2017"
@@ -281,10 +281,10 @@
           "_name": "header3",
           "_anchor": "header3-1q",
           "_params": {
+            "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Derularea celei de-a doua mobilități",
           "meta": "Echipa de proiect, 22.01.2017<br><br><b><a href=\"mobilitatea2.html\">DETALII</a></b>"
@@ -308,10 +308,10 @@
           "_name": "header3",
           "_anchor": "header3-17",
           "_params": {
+            "showMeta": true,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Diseminarea Mobilității din Sevilia",
           "meta": "Echpa de proiect, 29.03.2017<br>"
@@ -344,10 +344,10 @@
           "_name": "header3",
           "_anchor": "header3-d",
           "_params": {
+            "showMeta": true,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Derularea primei mobilități din cadrul proiectului",
           "meta": "Echipa de proiect, 13.03.2017<br>"
@@ -378,23 +378,23 @@
           "_name": "msg-box3",
           "_anchor": "noutati-msg-box3-0",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
+            "overlayOpacity": 0.5
           },
           "title": "Finalizarea &nbsp;procesului de înscriere<br>",
           "text": "<h5><i><b>Echipa de proiect. 04.10.2016</b></i></h5><h5><i><b><br></b></i></h5><h5>S-a încheiat înscrierea candidaților pentru mobilități. Din motive tehnice, procesul de selecție a fost prelungit până la data de 4.10.2016</h5><h5>Concursul &nbsp;pentru cei înscriși va avea loc în cursul lunii octombrie, la o dată ce va fi comunicată în câteva zile. &nbsp;Lista candidaților și detaliile despre concursul de selecție a celor înscriși le găsiți accesând linkul de mai jos.</h5>",
@@ -421,23 +421,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-0",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
+            "overlayOpacity": 0.5
           },
           "title": "Înscriere candidați",
           "text": "<p>Echipa de proiect, Septembrie 2016</p><p>În perioada 5-30 septembrie 2016- înscrierea celor care doresc să participe la mobilitățile proiectului.</p>",
@@ -459,10 +459,10 @@
           "_name": "header3",
           "_anchor": "header3-0",
           "_params": {
+            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#cccccc",
-            "showMeta": true
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"color: inherit; line-height: 1.1;\">Publicarea site proiect</span><br>",
           "meta": "Echipa de proiect, &nbsp;August 2016<br><br>Acesta este site-ul oficial al proiectului."
@@ -485,13 +485,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         },
@@ -551,17 +551,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#c0a375"
           },
           "logo": {
             "image": {
@@ -643,17 +643,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#c0a375"
           },
           "logo": {
             "image": {
@@ -683,10 +683,10 @@
           "_name": "header3",
           "_anchor": "header3-0",
           "_params": {
+            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#c1c1c1",
-            "showMeta": true
+            "bgColor": "#c1c1c1"
           },
           "title": "Descriere proiect",
           "meta": ""
@@ -728,13 +728,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         }
@@ -756,23 +756,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-1",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
             "paddingTop": "3",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
+            "overlayOpacity": 0.5
           },
           "title": "Lista celor înscriși",
           "text": "<h4>Actualizat : 04.10.2016</h4>",
@@ -831,17 +831,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#c0a375"
           },
           "logo": {
             "image": {
@@ -866,8 +866,11 @@
           "_name": "slider3",
           "_params": {
             "autoplay": true,
+            "fullScreen": false,
             "paddingTop": "1",
             "paddingBottom": "1",
+            "showBullets": true,
+            "bgColor": "#fff",
             "timeout": "10",
             "slides": [
               {
@@ -1169,10 +1172,7 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": true
+            ]
           },
           "_anchor": "concurs-slider3-0",
           "articleLayout": false
@@ -1189,10 +1189,10 @@
           "_name": "header3",
           "_anchor": "header3-0",
           "_params": {
+            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Constitutirea grupului-țintă care va participa la mobilități&nbsp;",
           "meta": ""
@@ -1251,10 +1251,10 @@
           "_name": "header3",
           "_anchor": "header3-1",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Înscrierea candidaților<br>",
           "meta": ""
@@ -1307,23 +1307,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-0",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
+            "overlayOpacity": 0.5
           },
           "title": "MOBILITĂȚILE PROIECTULUI",
           "text": "",
@@ -1347,13 +1347,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         }
@@ -1374,10 +1374,10 @@
           "_name": "header3",
           "_anchor": "header3-0",
           "_params": {
+            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Despre mobilitățile proiectului",
           "meta": ""
@@ -1435,17 +1435,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#c0a375"
           },
           "logo": {
             "image": {
@@ -1492,26 +1492,26 @@
           },
           "_anchor": "features3-0",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#66dec5",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "5",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#66dec5",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -1634,13 +1634,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         }
@@ -1713,17 +1713,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#c0a375"
           },
           "logo": {
             "image": {
@@ -1766,19 +1766,19 @@
           },
           "_anchor": "form1-0",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#428c96",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#428c96",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "Formular de contact",
           "subtitle": "În această secțiune puteți adresa întrebări legate de proiect.",
@@ -1829,13 +1829,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         }
@@ -1908,17 +1908,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#c0a375"
           },
           "logo": {
             "image": {
@@ -1952,23 +1952,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-0",
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "5",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/logo-nedefinit-2000x1900-81.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": false,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "DISEMINAREA ȘI EVALUAREA PROIECTULUI",
           "text": "",
@@ -2022,13 +2022,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         },
@@ -2044,10 +2044,10 @@
           "_name": "header3",
           "_anchor": "header3-72",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Diseminările proiectului",
           "meta": ""
@@ -2085,23 +2085,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/17202746-200537777099589-4517897861904674532-n-2000x1500.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "Moodle 3.0 Introduction for teachers<br>",
           "text": "",
@@ -2123,25 +2123,25 @@
           },
           "_anchor": "msg-box5-10",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#48d4b7",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#48d4b7",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -2184,10 +2184,10 @@
           "_name": "header3",
           "_anchor": "header3-5",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Jurnalul Activităților",
           "meta": ""
@@ -2207,10 +2207,10 @@
           "_name": "header3",
           "_anchor": "header3-6",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 1",
           "meta": "Raportată de profesor Horațiu Neacșu<br>13.03.2017"
@@ -2241,8 +2241,15 @@
           ],
           "_name": "gallery4",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#de8d21",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -2284,14 +2291,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#de8d21",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery4-a",
           "articleLayout": false,
@@ -2353,17 +2353,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#c0a375"
           },
           "logo": {
             "image": {
@@ -2405,13 +2405,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         },
@@ -2430,10 +2430,10 @@
           "_name": "header3",
           "_anchor": "header3-f",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 2",
           "meta": "Raportată de profesor -inspector &nbsp;Nistor Bogdan<br>14.03.2017"
@@ -2458,8 +2458,15 @@
           ],
           "_name": "gallery2",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 0,
             "paddingTop": "1",
             "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "#7e9b9f",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -2471,14 +2478,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#7e9b9f",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery2-j",
           "articleLayout": false,
@@ -2499,10 +2499,10 @@
           "_name": "header3",
           "_anchor": "header3-k",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 3",
           "meta": "Raportată de profesor inginer Atudorei Adrian<br>15.03.2017<br>"
@@ -2526,8 +2526,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#41a85f",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -2569,14 +2576,7 @@
                 "caption": "Type caption here",
                 "active": false
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#41a85f",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-m",
           "articleLayout": false,
@@ -2597,10 +2597,10 @@
           "_name": "header3",
           "_anchor": "header3-o",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 4",
           "meta": "Raportată de profesor &nbsp;Arhire Lucian<br>16.03.2017<br>"
@@ -2625,8 +2625,15 @@
           ],
           "_name": "gallery2",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": "0",
             "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#3d8eb9",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -2648,14 +2655,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#3d8eb9",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery2-r",
           "articleLayout": false,
@@ -2676,10 +2676,10 @@
           "_name": "header3",
           "_anchor": "header3-s",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 5",
           "meta": "Raportată de profesor inginer Atudorei Adrian<br>17.03.2017<br>"
@@ -2703,8 +2703,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#84a7a2",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -2746,14 +2753,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#84a7a2",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-w",
           "articleLayout": false,
@@ -2774,10 +2774,10 @@
           "_name": "header3",
           "_anchor": "header3-14",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef",
-            "showMeta": true
+            "bgColor": "#efefef"
           },
           "title": "Diseminare mobilitate",
           "meta": "Articol apărut în Monitorul de Suceava"
@@ -2859,17 +2859,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#c0a375"
           },
           "logo": {
             "image": {
@@ -2902,23 +2902,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-1h",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/18622202-10154639202848683-4749694347063983188-n-2000x2666.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": "0.4"
           },
           "title": "ICT FOR TEACHING: A practical course to incorporate Information Technology into Teaching",
           "text": "",
@@ -2940,25 +2940,25 @@
           },
           "_anchor": "msg-box5-1j",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "28",
             "paddingTop": "1",
             "paddingBottom": 0,
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#00a885",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#00a885",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -3001,10 +3001,10 @@
           "_name": "header3",
           "_anchor": "header3-1k",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Jurnalul Activităților",
           "meta": ""
@@ -3027,10 +3027,10 @@
           "_name": "header3",
           "_anchor": "header3-1l",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 1",
           "meta": "Raportată de profesor inginer Arganisciuc Ovidiu, manager al Colegiului Tehnic „Alexandru Ioan Cuza” Suceava<br>22.05.2017"
@@ -3060,8 +3060,15 @@
           ],
           "_name": "gallery3",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "0",
             "paddingTop": 1,
             "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#3d8eb9",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Beautiful",
@@ -3103,14 +3110,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "0",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#3d8eb9",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery3-1n",
           "articleLayout": false,
@@ -3134,10 +3134,10 @@
           "_name": "header3",
           "_anchor": "header3-1s",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 2",
           "meta": "Raportată de profesor Macovei Cristina<br>23.05.2017<br>"
@@ -3167,8 +3167,15 @@
           ],
           "_name": "gallery3",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "1",
             "paddingTop": "0",
             "paddingBottom": "0",
+            "filterBgColor": true,
+            "bgColor": "#e4342b",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -3210,14 +3217,7 @@
                 "caption": "Type caption here",
                 "active": false
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#e4342b",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery3-1v",
           "articleLayout": false,
@@ -3241,10 +3241,10 @@
           "_name": "header3",
           "_anchor": "header3-1w",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 3",
           "meta": "Raportată de profesor Irimiciuc Loredana<br>24.05.2017<br>"
@@ -3274,8 +3274,15 @@
           ],
           "_name": "gallery3",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "2",
             "paddingTop": "0",
             "paddingBottom": "0",
+            "filterBgColor": true,
+            "bgColor": "#5dbcd2",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -3317,14 +3324,7 @@
                 "caption": "Type caption here",
                 "active": false
               }
-            ],
-            "spacing": "2",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#5dbcd2",
-            "filterBgColor": true,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery3-20",
           "articleLayout": false,
@@ -3345,10 +3345,10 @@
           "_name": "header3",
           "_anchor": "header3-21",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea &nbsp;4",
           "meta": "Raportată de profesor inginer Arganisciuc Ovidiu, manager al Colegiului Tehnic „Alexandru Ioan Cuza” Suceava<br>25.05.2017<br>"
@@ -3373,8 +3373,15 @@
           ],
           "_name": "gallery2",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "1",
             "paddingTop": "0",
             "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#90a878",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -3416,14 +3423,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#90a878",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery2-23",
           "articleLayout": false,
@@ -3444,10 +3444,10 @@
           "_name": "header3",
           "_anchor": "header3-24",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 5",
           "meta": "Raportată de profesor Irimiciuc Loredana<br>26.05.2017<br>"
@@ -3472,8 +3472,15 @@
           ],
           "_name": "gallery2",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "1",
             "paddingTop": "0",
             "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#e1600f",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -3515,14 +3522,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#e1600f",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery2-26",
           "articleLayout": false,
@@ -3543,10 +3543,10 @@
           "_name": "header3",
           "_anchor": "header3-27",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 6",
           "meta": "Raportată de profesor Macovei Cristina<br>27.05.2017<br>"
@@ -3570,8 +3570,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#319000",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -3613,14 +3620,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#319000",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-2a",
           "articleLayout": false,
@@ -3639,23 +3639,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-2e",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
+            "overlayOpacity": 0.5
           },
           "title": "Diseminare Mobilitate",
           "text": "<h4>Articol apărut în Monitorul de Suceava</h4>",
@@ -3725,17 +3725,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2f",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#c0a375"
           },
           "logo": {
             "image": {
@@ -3768,23 +3768,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2g",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/11-2000x820.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": "0.4"
           },
           "title": "Making Technology Work in the Classroom for Second Level Teachers",
           "text": "",
@@ -3806,25 +3806,25 @@
           },
           "_anchor": "msg-box5-2h",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "28",
             "paddingTop": "1",
             "paddingBottom": 0,
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#00a885",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#00a885",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -3867,10 +3867,10 @@
           "_name": "header3",
           "_anchor": "header3-2i",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Jurnalul Activităților",
           "meta": ""
@@ -3893,10 +3893,10 @@
           "_name": "header3",
           "_anchor": "header3-2j",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 1",
           "meta": "Raportată de profesor Rebei Marian<br>17.07.2017"
@@ -3926,8 +3926,15 @@
           ],
           "_name": "gallery3",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "1",
             "paddingTop": 1,
             "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#3d8eb9",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Beautiful",
@@ -3969,14 +3976,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#3d8eb9",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery3-2l",
           "articleLayout": false,
@@ -3997,10 +3997,10 @@
           "_name": "header3",
           "_anchor": "header3-35",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 2",
           "meta": "Raportată de profesor Dobrincu Simona<br>18.07.2017<br>"
@@ -4030,8 +4030,15 @@
           ],
           "_name": "gallery2",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "1",
             "paddingTop": "1",
             "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "#50a268",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Beautiful",
@@ -4073,14 +4080,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#50a268",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery2-37",
           "articleLayout": false,
@@ -4101,10 +4101,10 @@
           "_name": "header3",
           "_anchor": "header3-39",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 3",
           "meta": "Raportată de profesor Șerban Mihaela<br>19.07.2017<br>"
@@ -4133,8 +4133,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#c7aa37",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -4176,14 +4183,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#c7aa37",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-3b",
           "articleLayout": false,
@@ -4204,10 +4204,10 @@
           "_name": "header3",
           "_anchor": "header3-3c",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 4",
           "meta": "Raportată de profesor Rebei Marian<br>20.07.2017<br>"
@@ -4231,8 +4231,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#b85b5a",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -4270,18 +4277,11 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170720-145312-2000x1709-800x683.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20170720_145312&&-2000x1709.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170720-145312-2000x1709.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#b85b5a",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-3f",
           "articleLayout": false,
@@ -4302,10 +4302,10 @@
           "_name": "header3",
           "_anchor": "header3-3g",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 5",
           "meta": "Raportată de profesor Dobrincu Simona<br>21.07.2017<br>"
@@ -4334,8 +4334,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "2",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#c0a375",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Beautiful",
@@ -4377,14 +4384,7 @@
                 "caption": "Type caption here",
                 "active": false
               }
-            ],
-            "spacing": "2",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#c0a375",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-3i",
           "articleLayout": false,
@@ -4405,10 +4405,10 @@
           "_name": "header3",
           "_anchor": "header3-3j",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 6",
           "meta": "Raportată de profesor Șerban Mihaela<br>24.07.2017<br>"
@@ -4437,8 +4437,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "2",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -4480,14 +4487,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "2",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-3l",
           "articleLayout": false,
@@ -4508,10 +4508,10 @@
           "_name": "header3",
           "_anchor": "header3-3m",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 7",
           "meta": "Raportată de profesor Rebei Marian<br>25.07.2017<br>"
@@ -4540,8 +4540,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#fac51c",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -4583,14 +4590,7 @@
                 "caption": "Type caption here",
                 "active": false
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#fac51c",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-3o",
           "articleLayout": false,
@@ -4611,10 +4611,10 @@
           "_name": "header3",
           "_anchor": "header3-3p",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 8",
           "meta": "Raportată de profesor Dobrincu Simona Elena&nbsp;<br>26.07.2017"
@@ -4646,8 +4646,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#5a38aa",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "alt": "",
@@ -4693,14 +4700,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#5a38aa",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-3r",
           "articleLayout": false,
@@ -4721,10 +4721,10 @@
           "_name": "header3",
           "_anchor": "header3-3s",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitata 9",
           "meta": "Raportată de profesor Șerban Mihaela&nbsp;<br>27.07.2017<br>"
@@ -4753,8 +4753,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "2",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#78b78a",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -4796,14 +4803,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "2",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#78b78a",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-3u",
           "articleLayout": false,
@@ -4824,10 +4824,10 @@
           "_name": "header3",
           "_anchor": "header3-3v",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 10",
           "meta": "Raportată de profesor Rebei Marian&nbsp;<br>28.07.2017&nbsp;<br>"
@@ -4859,8 +4859,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "2",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#00a885",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -4902,14 +4909,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "2",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#00a885",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-3x",
           "articleLayout": false,
@@ -4930,10 +4930,10 @@
           "_name": "header3",
           "_anchor": "header3-5c",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Diseminare Mobilitate",
           "meta": "Articol apărut in Monitorul de Suceava"
@@ -5015,17 +5015,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-3y",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#c0a375"
           },
           "logo": {
             "image": {
@@ -5058,23 +5058,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-3z",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/1374-prague-2000x1333.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": "0.4"
           },
           "title": "Using E-Learning in the classroom",
           "text": "",
@@ -5096,25 +5096,25 @@
           },
           "_anchor": "msg-box5-40",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "28",
             "paddingTop": "1",
             "paddingBottom": 0,
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#00a885",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#00a885",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -5157,10 +5157,10 @@
           "_name": "header3",
           "_anchor": "header3-41",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Jurnalul Activităților",
           "meta": ""
@@ -5183,10 +5183,10 @@
           "_name": "header3",
           "_anchor": "header3-42",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 1",
           "meta": "Raportată de profesor Gaspar Loredana<br>7.08.2017"
@@ -5215,8 +5215,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#2969b0",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Creative",
@@ -5258,14 +5265,7 @@
                 "caption": "Type caption here",
                 "active": false
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#2969b0",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-4z",
           "articleLayout": false,
@@ -5286,10 +5286,10 @@
           "_name": "header3",
           "_anchor": "header3-50",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 2",
           "meta": "Raportată de profesor Grigorean Lăcrămioara<br>8.08.2017<br>"
@@ -5319,8 +5319,15 @@
           ],
           "_name": "gallery2",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "1",
             "paddingTop": "0",
             "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#f3c649",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -5362,14 +5369,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#f3c649",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery2-52",
           "articleLayout": false,
@@ -5390,10 +5390,10 @@
           "_name": "header3",
           "_anchor": "header3-53",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 3",
           "meta": "Raportată de preot-profesor &nbsp;Știubianu Cristian<br>9.08.2017"
@@ -5422,8 +5422,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#a38f84",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -5465,14 +5472,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#a38f84",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-55",
           "articleLayout": false,
@@ -5493,10 +5493,10 @@
           "_name": "header3",
           "_anchor": "header3-56",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 4",
           "meta": "Raportată de profesor  Nicodim Andrei<br>10.08.2017<br>"
@@ -5520,8 +5520,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "2",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#90a878",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -5563,14 +5570,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "2",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#90a878",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-58",
           "articleLayout": false,
@@ -5591,10 +5591,10 @@
           "_name": "header3",
           "_anchor": "header3-59",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 5",
           "meta": "Raportată de profesor Gaspar Loredana<br>11.08.2017<br>"
@@ -5618,8 +5618,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#82bebb",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -5661,14 +5668,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#82bebb",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-5b",
           "articleLayout": false,
@@ -5689,10 +5689,10 @@
           "_name": "header3",
           "_anchor": "header3-5e",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Diseminare mobilitate",
           "meta": "Articol aparut in Monitorul de Suceava"
@@ -5774,17 +5774,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-5i",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#c0a375"
           },
           "logo": {
             "image": {
@@ -5817,23 +5817,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-5j",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/lisabona-almada-lisabona-city-break-vacanta-lisabona-b50u-2000x1333.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": "0.4"
           },
           "title": "ICT and free Web Tools in Education: Another way to Teach and to Learn",
           "text": "",
@@ -5855,25 +5855,25 @@
           },
           "_anchor": "msg-box5-5k",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "28",
             "paddingTop": "1",
             "paddingBottom": 0,
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#00a885",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#00a885",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -5916,10 +5916,10 @@
           "_name": "header3",
           "_anchor": "header3-5l",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Jurnalul Activităților",
           "meta": ""
@@ -5939,10 +5939,10 @@
           "_name": "header3",
           "_anchor": "header3-63",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 1",
           "meta": "Raportata de profesor Gula Mihaela<br>28.08.2017"
@@ -5966,8 +5966,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#dbae38",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -6009,14 +6016,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#dbae38",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-65",
           "articleLayout": false,
@@ -6037,10 +6037,10 @@
           "_name": "header3",
           "_anchor": "header3-66",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 2",
           "meta": "Raportata de profesor Luminita Cazan<br>29.08.2017<br>"
@@ -6064,8 +6064,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#41a85f",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -6107,14 +6114,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#41a85f",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-68",
           "articleLayout": false,
@@ -6135,10 +6135,10 @@
           "_name": "header3",
           "_anchor": "header3-69",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 3",
           "meta": "Raportata de director adjunct Filipiuc Beatrice<br>30.08.2017<br>"
@@ -6162,8 +6162,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#b8312f",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -6205,14 +6212,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#b8312f",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-6b",
           "articleLayout": false,
@@ -6233,10 +6233,10 @@
           "_name": "header3",
           "_anchor": "header3-6c",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 4",
           "meta": "Raportata de profesor Buculei Loredana<br>31.08.2017<br>"
@@ -6260,8 +6260,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#5c4e7a",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Beautiful",
@@ -6303,14 +6310,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#5c4e7a",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-6e",
           "articleLayout": false,
@@ -6331,10 +6331,10 @@
           "_name": "header3",
           "_anchor": "header3-6f",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Activitatea 5",
           "meta": "Raportata de profesor Cazan Luminita<br>01.09.2017<br>"
@@ -6358,8 +6358,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#41a85f",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Beautiful",
@@ -6401,14 +6408,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#41a85f",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-6h",
           "articleLayout": false,
@@ -6429,10 +6429,10 @@
           "_name": "header3",
           "_anchor": "header3-75",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Diseminare proiect",
           "meta": "Articol aparut in presa locala"
@@ -6476,13 +6476,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         },
@@ -6498,10 +6498,10 @@
           "_name": "header3",
           "_anchor": "header3-6o",
           "_params": {
+            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": "1",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Diseminarea în presa locală",
           "meta": ""
@@ -6575,17 +6575,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-5i",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#c0a375"
           },
           "logo": {
             "image": {
@@ -6618,10 +6618,10 @@
           "_name": "header3",
           "_anchor": "header3-77",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Diseminarea la nivelul școlii",
           "meta": ""
@@ -6632,8 +6632,15 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#41a85f",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -6685,14 +6692,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#41a85f",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-78",
           "articleLayout": false,
@@ -6724,13 +6724,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         },
@@ -6746,10 +6746,10 @@
           "_name": "header3",
           "_anchor": "header3-6r",
           "_params": {
+            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Diseminarea în presa locală",
           "meta": ""
@@ -6823,17 +6823,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-5i",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#c0a375"
           },
           "logo": {
             "image": {
@@ -6880,13 +6880,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         },
@@ -6902,10 +6902,10 @@
           "_name": "header3",
           "_anchor": "header3-6u",
           "_params": {
+            "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Diseminarea în presa locală",
           "meta": ""
@@ -6979,17 +6979,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-5i",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#c0a375"
           },
           "logo": {
             "image": {
@@ -7036,13 +7036,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         },
@@ -7058,10 +7058,10 @@
           "_name": "header3",
           "_anchor": "header3-6x",
           "_params": {
+            "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Diseminarea în presa locală",
           "meta": ""
@@ -7135,17 +7135,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-5i",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#c0a375"
           },
           "logo": {
             "image": {
@@ -7192,13 +7192,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         },
@@ -7214,10 +7214,10 @@
           "_name": "header3",
           "_anchor": "header3-70",
           "_params": {
+            "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Diseminarea în presa locală",
           "meta": ""
@@ -7291,17 +7291,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-5i",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#c0a375"
           },
           "logo": {
             "image": {
