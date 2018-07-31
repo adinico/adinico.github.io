@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "diseminare_spania.html",
+    "currentPage": "index.html",
     "versionFirst": "3.5.1",
-    "uniqCompNum": 261,
-    "versionPublish": "4.4.0",
+    "uniqCompNum": 267,
+    "versionPublish": "3.12.1",
     "name": "Proelearning",
     "theme": {
       "name": "mobirise3",
@@ -54,23 +54,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-0",
           "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": false,
             "paddingTop": "5",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/antet-3-erasmus-cuza-2000x515-75.jpg",
+            "paddingBottom": "2",
             "parallax": false,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thumbnail-2000x419.jpg",
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.1",
             "overlayColor": "#222",
-            "overlayOpacity": "0.1"
+            "showTitle": false,
+            "showText": false,
+            "showButton": false
           },
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
@@ -94,23 +94,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-0",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
             "paddingTop": "3",
             "paddingBottom": "3",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#5998a1",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
           },
           "title": "Implementarea platformelor e-learning",
           "text": "<h1></h1><h3><b>Un instrument modern în pregătirea adulților pentru inserția pe piața muncii</b></h3><h4><b><br></b></h4><h4><b>Proiectul este finanțat prin programul ERASMUS +</b></h4><h4><b>Acțiunea cheie 1 (KA1) -Proiecte de mobilitate. Educația Adulților</b></h4><h4><b>Perioada implementării: Iunie 2016- Iunie 2018</b></h4>",
@@ -134,13 +134,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         }
@@ -167,10 +167,10 @@
           "_name": "header3",
           "_anchor": "header3-5g",
           "_params": {
-            "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": "1",
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Derularea ultimei mobilitati",
           "meta": "<b>Echipa de proiect, August 2017</b>"
@@ -203,10 +203,10 @@
           "_name": "header3",
           "_anchor": "header3-4w",
           "_params": {
-            "showMeta": true,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Derularea celei de-a patra mobilități",
           "meta": "<b>Echipa de proiect, August 2017</b>"
@@ -242,10 +242,10 @@
           "_name": "header3",
           "_anchor": "header3-33",
           "_params": {
-            "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Derularea celei de a treia mobilități",
           "meta": "Echipa de proiect 17. 02. 2017"
@@ -281,10 +281,10 @@
           "_name": "header3",
           "_anchor": "header3-1q",
           "_params": {
-            "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Derularea celei de-a doua mobilități",
           "meta": "Echipa de proiect, 22.01.2017<br><br><b><a href=\"mobilitatea2.html\">DETALII</a></b>"
@@ -308,10 +308,10 @@
           "_name": "header3",
           "_anchor": "header3-17",
           "_params": {
-            "showMeta": true,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Diseminarea Mobilității din Sevilia",
           "meta": "Echpa de proiect, 29.03.2017<br>"
@@ -344,10 +344,10 @@
           "_name": "header3",
           "_anchor": "header3-d",
           "_params": {
-            "showMeta": true,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Derularea primei mobilități din cadrul proiectului",
           "meta": "Echipa de proiect, 13.03.2017<br>"
@@ -378,23 +378,23 @@
           "_name": "msg-box3",
           "_anchor": "noutati-msg-box3-0",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
             "paddingTop": "0",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
           },
           "title": "Finalizarea &nbsp;procesului de înscriere<br>",
           "text": "<h5><i><b>Echipa de proiect. 04.10.2016</b></i></h5><h5><i><b><br></b></i></h5><h5>S-a încheiat înscrierea candidaților pentru mobilități. Din motive tehnice, procesul de selecție a fost prelungit până la data de 4.10.2016</h5><h5>Concursul &nbsp;pentru cei înscriși va avea loc în cursul lunii octombrie, la o dată ce va fi comunicată în câteva zile. &nbsp;Lista candidaților și detaliile despre concursul de selecție a celor înscriși le găsiți accesând linkul de mai jos.</h5>",
@@ -421,23 +421,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-0",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
             "paddingTop": "1",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#efefef",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
           },
           "title": "Înscriere candidați",
           "text": "<p>Echipa de proiect, Septembrie 2016</p><p>În perioada 5-30 septembrie 2016- înscrierea celor care doresc să participe la mobilitățile proiectului.</p>",
@@ -459,10 +459,10 @@
           "_name": "header3",
           "_anchor": "header3-0",
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#cccccc"
+            "bgColor": "#cccccc",
+            "showMeta": true
           },
           "title": "<span style=\"color: inherit; line-height: 1.1;\">Publicarea site proiect</span><br>",
           "meta": "Echipa de proiect, &nbsp;August 2016<br><br>Acesta este site-ul oficial al proiectului."
@@ -485,13 +485,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         },
@@ -551,17 +551,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375"
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -580,7 +580,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"diseminare.html\">DISEMINARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"diseminare.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DISEMINARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"diseminare.html\">Diseminare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statistici.html\">Statistici</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -643,17 +643,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375"
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -672,7 +672,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ctalicuza.ro/course/index.php\">PLATFORMA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"diseminare.html\">DISEMINARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"diseminare.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DISEMINARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"diseminare.html\">Diseminare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statistici.html\">Statistici</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -683,10 +683,10 @@
           "_name": "header3",
           "_anchor": "header3-0",
           "_params": {
-            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#c1c1c1"
+            "bgColor": "#c1c1c1",
+            "showMeta": true
           },
           "title": "Descriere proiect",
           "meta": ""
@@ -728,13 +728,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         }
@@ -756,27 +756,27 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-1",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
             "paddingTop": "3",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#efefef",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
           },
           "title": "Lista celor înscriși",
           "text": "<h4>Actualizat : 04.10.2016</h4>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.ctalicuza.ro/proelearning/documente/inscriere%20candidati.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIZUALIZEAZĂ</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.ctalicuza.ro:81/proelearning/documente/inscriere%20candidati.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIZUALIZEAZĂ</a>"
         },
         {
           "_inherit": "menu",
@@ -831,17 +831,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375"
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -860,17 +860,14 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"diseminare.html\">DISEMINARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"diseminare.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DISEMINARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"diseminare.html\">Diseminare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statistici.html\">Statistici</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_name": "slider3",
           "_params": {
             "autoplay": true,
-            "fullScreen": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "showBullets": true,
-            "bgColor": "#fff",
             "timeout": "10",
             "slides": [
               {
@@ -1172,7 +1169,10 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ]
+            ],
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": true
           },
           "_anchor": "concurs-slider3-0",
           "articleLayout": false
@@ -1189,10 +1189,10 @@
           "_name": "header3",
           "_anchor": "header3-0",
           "_params": {
-            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Constitutirea grupului-țintă care va participa la mobilități&nbsp;",
           "meta": ""
@@ -1251,10 +1251,10 @@
           "_name": "header3",
           "_anchor": "header3-1",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Înscrierea candidaților<br>",
           "meta": ""
@@ -1307,23 +1307,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-0",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
             "paddingTop": "3",
             "paddingBottom": "3",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
           },
           "title": "MOBILITĂȚILE PROIECTULUI",
           "text": "",
@@ -1347,13 +1347,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         }
@@ -1374,10 +1374,10 @@
           "_name": "header3",
           "_anchor": "header3-0",
           "_params": {
-            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Despre mobilitățile proiectului",
           "meta": ""
@@ -1435,17 +1435,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375"
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1464,7 +1464,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.ctalicuza.ro/course/index.php\">PLATFORMA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"diseminare.html\">DISEMINARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"diseminare.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DISEMINARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"diseminare.html\">Diseminare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statistici.html\">Statistici</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_name": "content2",
@@ -1492,26 +1492,26 @@
           },
           "_anchor": "features3-0",
           "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#66dec5",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "5",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "5",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#66dec5",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -1634,13 +1634,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         }
@@ -1713,17 +1713,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375"
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1742,7 +1742,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"diseminare.html\">DISEMINARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"diseminare.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DISEMINARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"diseminare.html\">Diseminare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statistici.html\">Statistici</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_name": "content1",
@@ -1766,19 +1766,19 @@
           },
           "_anchor": "form1-0",
           "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#428c96",
+            "bgColorRadio": true,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubTitle": true
           },
           "title": "Formular de contact",
           "subtitle": "În această secțiune puteți adresa întrebări legate de proiect.",
@@ -1829,13 +1829,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         }
@@ -1908,17 +1908,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375"
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1937,7 +1937,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"diseminare.html\">DISEMINARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"diseminare.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DISEMINARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"diseminare.html\">Diseminare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statistici.html\">Statistici</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -1952,23 +1952,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-0",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "5",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/logo-nedefinit-2000x1900-81.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
           },
           "title": "DISEMINAREA ȘI EVALUAREA PROIECTULUI",
           "text": "",
@@ -2022,13 +2022,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         },
@@ -2044,10 +2044,10 @@
           "_name": "header3",
           "_anchor": "header3-72",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Diseminările proiectului",
           "meta": ""
@@ -2085,23 +2085,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/17202746-200537777099589-4517897861904674532-n-2000x1500.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "Moodle 3.0 Introduction for teachers<br>",
           "text": "",
@@ -2123,25 +2123,25 @@
           },
           "_anchor": "msg-box5-10",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#48d4b7",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -2184,10 +2184,10 @@
           "_name": "header3",
           "_anchor": "header3-5",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Jurnalul Activităților",
           "meta": ""
@@ -2207,10 +2207,10 @@
           "_name": "header3",
           "_anchor": "header3-6",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 1",
           "meta": "Raportată de profesor Horațiu Neacșu<br>13.03.2017"
@@ -2241,15 +2241,8 @@
           ],
           "_name": "gallery4",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": "0",
-            "filterBgColor": false,
-            "bgColor": "#de8d21",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -2291,7 +2284,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#de8d21",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery4-a",
           "articleLayout": false,
@@ -2353,17 +2353,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375"
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2382,7 +2382,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"diseminare.html\">DISEMINARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"diseminare.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DISEMINARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"diseminare.html\">Diseminare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statistici.html\">Statistici</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -2405,13 +2405,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         },
@@ -2430,10 +2430,10 @@
           "_name": "header3",
           "_anchor": "header3-f",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 2",
           "meta": "Raportată de profesor -inspector &nbsp;Nistor Bogdan<br>14.03.2017"
@@ -2458,15 +2458,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": 0,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "filterBgColor": false,
-            "bgColor": "#7e9b9f",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -2478,7 +2471,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#7e9b9f",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
           },
           "_anchor": "gallery2-j",
           "articleLayout": false,
@@ -2499,10 +2499,10 @@
           "_name": "header3",
           "_anchor": "header3-k",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 3",
           "meta": "Raportată de profesor inginer Atudorei Adrian<br>15.03.2017<br>"
@@ -2526,15 +2526,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#41a85f",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -2576,7 +2569,14 @@
                 "caption": "Type caption here",
                 "active": false
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#41a85f",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-m",
           "articleLayout": false,
@@ -2597,10 +2597,10 @@
           "_name": "header3",
           "_anchor": "header3-o",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 4",
           "meta": "Raportată de profesor &nbsp;Arhire Lucian<br>16.03.2017<br>"
@@ -2625,15 +2625,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "filterBgColor": false,
-            "bgColor": "#3d8eb9",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -2655,7 +2648,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#3d8eb9",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery2-r",
           "articleLayout": false,
@@ -2676,10 +2676,10 @@
           "_name": "header3",
           "_anchor": "header3-s",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 5",
           "meta": "Raportată de profesor inginer Atudorei Adrian<br>17.03.2017<br>"
@@ -2703,15 +2703,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#84a7a2",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -2753,7 +2746,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#84a7a2",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-w",
           "articleLayout": false,
@@ -2774,10 +2774,10 @@
           "_name": "header3",
           "_anchor": "header3-14",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#efefef",
+            "showMeta": true
           },
           "title": "Diseminare mobilitate",
           "meta": "Articol apărut în Monitorul de Suceava"
@@ -2859,17 +2859,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375"
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2888,7 +2888,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"diseminare.html\">DISEMINARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"diseminare.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DISEMINARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"diseminare.html\">Diseminare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statistici.html\">Statistici</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -2902,23 +2902,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-1h",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/18622202-10154639202848683-4749694347063983188-n-2000x2666.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.4",
             "overlayColor": "#222",
-            "overlayOpacity": "0.4"
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "ICT FOR TEACHING: A practical course to incorporate Information Technology into Teaching",
           "text": "",
@@ -2940,25 +2940,25 @@
           },
           "_anchor": "msg-box5-1j",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": "28",
             "paddingTop": "1",
             "paddingBottom": 0,
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#00a885",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -3001,10 +3001,10 @@
           "_name": "header3",
           "_anchor": "header3-1k",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Jurnalul Activităților",
           "meta": ""
@@ -3027,10 +3027,10 @@
           "_name": "header3",
           "_anchor": "header3-1l",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 1",
           "meta": "Raportată de profesor inginer Arganisciuc Ovidiu, manager al Colegiului Tehnic „Alexandru Ioan Cuza” Suceava<br>22.05.2017"
@@ -3060,15 +3060,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": "0",
             "paddingTop": 1,
             "paddingBottom": 1,
-            "filterBgColor": true,
-            "bgColor": "#3d8eb9",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Beautiful",
@@ -3110,7 +3103,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "0",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#3d8eb9",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
           },
           "_anchor": "gallery3-1n",
           "articleLayout": false,
@@ -3134,10 +3134,10 @@
           "_name": "header3",
           "_anchor": "header3-1s",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 2",
           "meta": "Raportată de profesor Macovei Cristina<br>23.05.2017<br>"
@@ -3167,15 +3167,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": "1",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "filterBgColor": true,
-            "bgColor": "#e4342b",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -3217,7 +3210,14 @@
                 "caption": "Type caption here",
                 "active": false
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#e4342b",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
           },
           "_anchor": "gallery3-1v",
           "articleLayout": false,
@@ -3241,10 +3241,10 @@
           "_name": "header3",
           "_anchor": "header3-1w",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 3",
           "meta": "Raportată de profesor Irimiciuc Loredana<br>24.05.2017<br>"
@@ -3274,15 +3274,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "2",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "filterBgColor": true,
-            "bgColor": "#5dbcd2",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -3324,7 +3317,14 @@
                 "caption": "Type caption here",
                 "active": false
               }
-            ]
+            ],
+            "spacing": "2",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#5dbcd2",
+            "filterBgColor": true,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery3-20",
           "articleLayout": false,
@@ -3345,10 +3345,10 @@
           "_name": "header3",
           "_anchor": "header3-21",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea &nbsp;4",
           "meta": "Raportată de profesor inginer Arganisciuc Ovidiu, manager al Colegiului Tehnic „Alexandru Ioan Cuza” Suceava<br>25.05.2017<br>"
@@ -3373,15 +3373,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": "1",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "filterBgColor": false,
-            "bgColor": "#90a878",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -3423,7 +3416,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#90a878",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
           },
           "_anchor": "gallery2-23",
           "articleLayout": false,
@@ -3444,10 +3444,10 @@
           "_name": "header3",
           "_anchor": "header3-24",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 5",
           "meta": "Raportată de profesor Irimiciuc Loredana<br>26.05.2017<br>"
@@ -3472,15 +3472,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": "1",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "filterBgColor": false,
-            "bgColor": "#e1600f",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -3522,7 +3515,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#e1600f",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
           },
           "_anchor": "gallery2-26",
           "articleLayout": false,
@@ -3543,10 +3543,10 @@
           "_name": "header3",
           "_anchor": "header3-27",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 6",
           "meta": "Raportată de profesor Macovei Cristina<br>27.05.2017<br>"
@@ -3570,15 +3570,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#319000",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -3620,7 +3613,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#319000",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
           },
           "_anchor": "gallery1-2a",
           "articleLayout": false,
@@ -3639,23 +3639,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-2e",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
             "paddingTop": "1",
             "paddingBottom": "0",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
           },
           "title": "Diseminare Mobilitate",
           "text": "<h4>Articol apărut în Monitorul de Suceava</h4>",
@@ -3725,17 +3725,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2f",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375"
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -3754,7 +3754,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"diseminare.html\">DISEMINARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"diseminare.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DISEMINARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"diseminare.html\">Diseminare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statistici.html\">Statistici</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -3768,23 +3768,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2g",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/11-2000x820.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.4",
             "overlayColor": "#222",
-            "overlayOpacity": "0.4"
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "Making Technology Work in the Classroom for Second Level Teachers",
           "text": "",
@@ -3806,25 +3806,25 @@
           },
           "_anchor": "msg-box5-2h",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": "28",
             "paddingTop": "1",
             "paddingBottom": 0,
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#00a885",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -3867,10 +3867,10 @@
           "_name": "header3",
           "_anchor": "header3-2i",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Jurnalul Activităților",
           "meta": ""
@@ -3893,10 +3893,10 @@
           "_name": "header3",
           "_anchor": "header3-2j",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 1",
           "meta": "Raportată de profesor Rebei Marian<br>17.07.2017"
@@ -3926,15 +3926,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": "1",
             "paddingTop": 1,
             "paddingBottom": 1,
-            "filterBgColor": true,
-            "bgColor": "#3d8eb9",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Beautiful",
@@ -3976,7 +3969,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#3d8eb9",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
           },
           "_anchor": "gallery3-2l",
           "articleLayout": false,
@@ -3997,10 +3997,10 @@
           "_name": "header3",
           "_anchor": "header3-35",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 2",
           "meta": "Raportată de profesor Dobrincu Simona<br>18.07.2017<br>"
@@ -4030,15 +4030,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": "1",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "filterBgColor": false,
-            "bgColor": "#50a268",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Beautiful",
@@ -4080,7 +4073,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#50a268",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
           },
           "_anchor": "gallery2-37",
           "articleLayout": false,
@@ -4101,10 +4101,10 @@
           "_name": "header3",
           "_anchor": "header3-39",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 3",
           "meta": "Raportată de profesor Șerban Mihaela<br>19.07.2017<br>"
@@ -4133,15 +4133,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#c7aa37",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -4183,7 +4176,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#c7aa37",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-3b",
           "articleLayout": false,
@@ -4204,10 +4204,10 @@
           "_name": "header3",
           "_anchor": "header3-3c",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 4",
           "meta": "Raportată de profesor Rebei Marian<br>20.07.2017<br>"
@@ -4231,15 +4231,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#b85b5a",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -4277,11 +4270,18 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170720-145312-2000x1709-800x683.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20170720-145312-2000x1709.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170720_145312&&-2000x1709.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#b85b5a",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-3f",
           "articleLayout": false,
@@ -4302,10 +4302,10 @@
           "_name": "header3",
           "_anchor": "header3-3g",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 5",
           "meta": "Raportată de profesor Dobrincu Simona<br>21.07.2017<br>"
@@ -4334,15 +4334,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "2",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#c0a375",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Beautiful",
@@ -4384,7 +4377,14 @@
                 "caption": "Type caption here",
                 "active": false
               }
-            ]
+            ],
+            "spacing": "2",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#c0a375",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-3i",
           "articleLayout": false,
@@ -4405,10 +4405,10 @@
           "_name": "header3",
           "_anchor": "header3-3j",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 6",
           "meta": "Raportată de profesor Șerban Mihaela<br>24.07.2017<br>"
@@ -4437,15 +4437,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "2",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#FFFFFF",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -4487,7 +4480,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "2",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-3l",
           "articleLayout": false,
@@ -4508,10 +4508,10 @@
           "_name": "header3",
           "_anchor": "header3-3m",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 7",
           "meta": "Raportată de profesor Rebei Marian<br>25.07.2017<br>"
@@ -4540,15 +4540,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#fac51c",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -4590,7 +4583,14 @@
                 "caption": "Type caption here",
                 "active": false
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#fac51c",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-3o",
           "articleLayout": false,
@@ -4611,10 +4611,10 @@
           "_name": "header3",
           "_anchor": "header3-3p",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 8",
           "meta": "Raportată de profesor Dobrincu Simona Elena&nbsp;<br>26.07.2017"
@@ -4646,15 +4646,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#5a38aa",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "alt": "",
@@ -4700,7 +4693,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#5a38aa",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-3r",
           "articleLayout": false,
@@ -4721,10 +4721,10 @@
           "_name": "header3",
           "_anchor": "header3-3s",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitata 9",
           "meta": "Raportată de profesor Șerban Mihaela&nbsp;<br>27.07.2017<br>"
@@ -4753,15 +4753,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "2",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#78b78a",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -4803,7 +4796,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "2",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#78b78a",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-3u",
           "articleLayout": false,
@@ -4824,10 +4824,10 @@
           "_name": "header3",
           "_anchor": "header3-3v",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 10",
           "meta": "Raportată de profesor Rebei Marian&nbsp;<br>28.07.2017&nbsp;<br>"
@@ -4859,15 +4859,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "2",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#00a885",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -4909,7 +4902,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "2",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#00a885",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-3x",
           "articleLayout": false,
@@ -4930,10 +4930,10 @@
           "_name": "header3",
           "_anchor": "header3-5c",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Diseminare Mobilitate",
           "meta": "Articol apărut in Monitorul de Suceava"
@@ -5015,17 +5015,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-3y",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375"
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -5044,7 +5044,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"diseminare.html\">DISEMINARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"diseminare.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DISEMINARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"diseminare.html\">Diseminare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statistici.html\">Statistici</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -5058,23 +5058,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-3z",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/1374-prague-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.4",
             "overlayColor": "#222",
-            "overlayOpacity": "0.4"
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "Using E-Learning in the classroom",
           "text": "",
@@ -5096,25 +5096,25 @@
           },
           "_anchor": "msg-box5-40",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": "28",
             "paddingTop": "1",
             "paddingBottom": 0,
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#00a885",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -5157,10 +5157,10 @@
           "_name": "header3",
           "_anchor": "header3-41",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Jurnalul Activităților",
           "meta": ""
@@ -5183,10 +5183,10 @@
           "_name": "header3",
           "_anchor": "header3-42",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 1",
           "meta": "Raportată de profesor Gaspar Loredana<br>7.08.2017"
@@ -5215,15 +5215,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#2969b0",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Creative",
@@ -5265,7 +5258,14 @@
                 "caption": "Type caption here",
                 "active": false
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#2969b0",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-4z",
           "articleLayout": false,
@@ -5286,10 +5286,10 @@
           "_name": "header3",
           "_anchor": "header3-50",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 2",
           "meta": "Raportată de profesor Grigorean Lăcrămioara<br>8.08.2017<br>"
@@ -5319,15 +5319,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": "1",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "filterBgColor": false,
-            "bgColor": "#f3c649",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -5369,7 +5362,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#f3c649",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
           },
           "_anchor": "gallery2-52",
           "articleLayout": false,
@@ -5390,10 +5390,10 @@
           "_name": "header3",
           "_anchor": "header3-53",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 3",
           "meta": "Raportată de preot-profesor &nbsp;Știubianu Cristian<br>9.08.2017"
@@ -5422,15 +5422,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#a38f84",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -5472,7 +5465,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#a38f84",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-55",
           "articleLayout": false,
@@ -5493,10 +5493,10 @@
           "_name": "header3",
           "_anchor": "header3-56",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 4",
           "meta": "Raportată de profesor  Nicodim Andrei<br>10.08.2017<br>"
@@ -5520,15 +5520,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "2",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#90a878",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -5570,7 +5563,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "2",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#90a878",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-58",
           "articleLayout": false,
@@ -5591,10 +5591,10 @@
           "_name": "header3",
           "_anchor": "header3-59",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 5",
           "meta": "Raportată de profesor Gaspar Loredana<br>11.08.2017<br>"
@@ -5618,15 +5618,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#82bebb",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -5668,7 +5661,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#82bebb",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-5b",
           "articleLayout": false,
@@ -5689,10 +5689,10 @@
           "_name": "header3",
           "_anchor": "header3-5e",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Diseminare mobilitate",
           "meta": "Articol aparut in Monitorul de Suceava"
@@ -5774,17 +5774,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-5i",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375"
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -5803,7 +5803,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"diseminare.html\">DISEMINARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"diseminare.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DISEMINARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"diseminare.html\">Diseminare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statistici.html\">Statistici</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -5817,23 +5817,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-5j",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/lisabona-almada-lisabona-city-break-vacanta-lisabona-b50u-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.4",
             "overlayColor": "#222",
-            "overlayOpacity": "0.4"
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "ICT and free Web Tools in Education: Another way to Teach and to Learn",
           "text": "",
@@ -5855,35 +5855,35 @@
           },
           "_anchor": "msg-box5-5k",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
             "imageSize": "28",
             "paddingTop": "1",
             "paddingBottom": 0,
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#00a885",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/dscf0586-1400x1050.jpg",
-              "link": "https://goo.gl/photos/629hhP4F3TAj5yir8",
+              "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -5916,10 +5916,10 @@
           "_name": "header3",
           "_anchor": "header3-5l",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Jurnalul Activităților",
           "meta": ""
@@ -5939,10 +5939,10 @@
           "_name": "header3",
           "_anchor": "header3-63",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 1",
           "meta": "Raportata de profesor Gula Mihaela<br>28.08.2017"
@@ -5966,15 +5966,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#dbae38",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -6016,7 +6009,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#dbae38",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-65",
           "articleLayout": false,
@@ -6037,10 +6037,10 @@
           "_name": "header3",
           "_anchor": "header3-66",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 2",
           "meta": "Raportata de profesor Luminita Cazan<br>29.08.2017<br>"
@@ -6064,15 +6064,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#41a85f",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -6114,7 +6107,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#41a85f",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-68",
           "articleLayout": false,
@@ -6135,10 +6135,10 @@
           "_name": "header3",
           "_anchor": "header3-69",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 3",
           "meta": "Raportata de director adjunct Filipiuc Beatrice<br>30.08.2017<br>"
@@ -6162,15 +6162,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#b8312f",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -6212,7 +6205,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#b8312f",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-6b",
           "articleLayout": false,
@@ -6233,10 +6233,10 @@
           "_name": "header3",
           "_anchor": "header3-6c",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 4",
           "meta": "Raportata de profesor Buculei Loredana<br>31.08.2017<br>"
@@ -6260,15 +6260,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#5c4e7a",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Beautiful",
@@ -6310,7 +6303,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#5c4e7a",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-6e",
           "articleLayout": false,
@@ -6331,10 +6331,10 @@
           "_name": "header3",
           "_anchor": "header3-6f",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Activitatea 5",
           "meta": "Raportata de profesor Cazan Luminita<br>01.09.2017<br>"
@@ -6358,15 +6358,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#41a85f",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Beautiful",
@@ -6408,7 +6401,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#41a85f",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-6h",
           "articleLayout": false,
@@ -6429,10 +6429,10 @@
           "_name": "header3",
           "_anchor": "header3-75",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Diseminare proiect",
           "meta": "Articol aparut in presa locala"
@@ -6476,13 +6476,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         },
@@ -6498,10 +6498,10 @@
           "_name": "header3",
           "_anchor": "header3-6o",
           "_params": {
-            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": "1",
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Diseminarea în presa locală",
           "meta": ""
@@ -6575,17 +6575,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-5i",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375"
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -6604,7 +6604,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"diseminare.html\">DISEMINARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"diseminare.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DISEMINARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"diseminare.html\">Diseminare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statistici.html\">Statistici</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -6618,10 +6618,10 @@
           "_name": "header3",
           "_anchor": "header3-77",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Diseminarea la nivelul școlii",
           "meta": ""
@@ -6632,15 +6632,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#41a85f",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -6692,7 +6685,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#41a85f",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-78",
           "articleLayout": false,
@@ -6724,13 +6724,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         },
@@ -6746,10 +6746,10 @@
           "_name": "header3",
           "_anchor": "header3-6r",
           "_params": {
-            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Diseminarea în presa locală",
           "meta": ""
@@ -6823,17 +6823,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-5i",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375"
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -6852,7 +6852,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"diseminare.html\">DISEMINARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"diseminare.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DISEMINARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"diseminare.html\">Diseminare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statistici.html\">Statistici</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -6880,13 +6880,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         },
@@ -6902,10 +6902,10 @@
           "_name": "header3",
           "_anchor": "header3-6u",
           "_params": {
-            "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Diseminarea în presa locală",
           "meta": ""
@@ -6979,17 +6979,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-5i",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375"
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -7008,7 +7008,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"diseminare.html\">DISEMINARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"diseminare.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DISEMINARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"diseminare.html\">Diseminare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statistici.html\">Statistici</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -7036,13 +7036,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         },
@@ -7058,10 +7058,10 @@
           "_name": "header3",
           "_anchor": "header3-6x",
           "_params": {
-            "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Diseminarea în presa locală",
           "meta": ""
@@ -7135,17 +7135,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-5i",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375"
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -7164,7 +7164,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"diseminare.html\">DISEMINARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"diseminare.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DISEMINARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"diseminare.html\">Diseminare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statistici.html\">Statistici</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },
@@ -7192,13 +7192,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
         },
@@ -7214,10 +7214,10 @@
           "_name": "header3",
           "_anchor": "header3-70",
           "_params": {
-            "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "Diseminarea în presa locală",
           "meta": ""
@@ -7291,17 +7291,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-5i",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375"
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -7320,7 +7320,245 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"diseminare.html\">DISEMINARE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"diseminare.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DISEMINARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"diseminare.html\">Diseminare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statistici.html\">Statistici</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        }
+      ]
+    },
+    "statistici.html": {
+      "settings": {
+        "title": "Statistici",
+        "meta_descr": "Web Page Maker Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-79",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sigla-proiect-modificat-352x128-17.jpg",
+              "height": 128,
+              "alt": "proelearning",
+              "link": "index.html",
+              "title": "Platformele e_Learning",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"noutati.html\">NOUTĂȚI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"descriere.html\">DESPRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mobilitati.html\">MOBILITĂȚILE</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"diseminare.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DISEMINARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"diseminare.html\">Diseminare</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statistici.html\">Statistici</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#c1c1c1",
+              "font-size": "16px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "B": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "footer1-7a",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b><a href=\"http://www.ctalicuza.ro/\" class=\"text-success\">COLEGIUL TEHNIC „ALEXANDRU IOAN CUZA ” SUCEAVA</a></b>"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-7e",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "myspace",
+              "family": "socicon",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "",
+              "newWindow": false
+            }
+          },
+          "title1": "Participanti",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Statisitica avand la baza datele prelucrate din CV-le depuse de participanti la inscriere",
+          "button1": "<a data-app-btn=\"true\" href=\"https://awesome-table.com/-LHJb3L8uai-kmTBC4F6/view\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIZUALIZEAZA</a> <a data-app-btn=\"true\" href=\"ftp://ctalicuza.ro/proelearning/documente/Prelucrari%20statistice%20cv.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARCA</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "paperclip",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "Rapoarte individuale",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Prelucarea statistica a raspunsurilor din rapoartele individuale completate la intoarerea din mobilitati .",
+          "button2": "<a data-app-btn=\"true\" href=\"https://awesome-table.com/-LG6gWVcoE9wEX-aDTg4/view\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIZUALIZEAZA</a> <a data-app-btn=\"true\" href=\"ftp://site@ctalicuza.ro/proelearning/documente/Raporturi%20individuale%20Erasmus%20-%20Copie.xlsx.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARCA</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "mobile",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title3": "Activitatea pe platforma",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Statistica ce reflecta activittatea pe platforma Moodle in perioada implementarii proietului.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://awesome-table.com/-LGHEJdALcKZ3AppUmhg/view\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIZUALIZEAZA</a> <a data-app-btn=\"true\" href=\"ftp://site@ctalicuza.ro/proelearning/documente/Activitate%20logare%20Moodle.xls.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARCA</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     }
